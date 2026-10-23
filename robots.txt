@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jaykk99.github.io/demoboss-site/sitemap.xml
+Sitemap: https://demoboss.onrender.com/sitemap.xml
