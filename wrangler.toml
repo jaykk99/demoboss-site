@@ -1,0 +1,10 @@
+# Cloudflare Pages config — DemoBoss site. PREPARED 2026-10-29, not yet
+# connected. To go live on Cloudflare: Workers & Pages -> Create -> Pages
+# -> Connect to Git -> pick this repo, production branch "main", no build
+# command, output dir ".". That creates demoboss-site.pages.dev as an
+# ADDITIONAL home; it does not change the current live sites
+# (jaykk99.github.io/demoboss-site, demoboss.onrender.com).
+# Pure static: no database wiring.
+name = "demoboss-site"
+pages_build_output_dir = "."
+compatibility_date = "2026-10-29"
